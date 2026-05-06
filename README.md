@@ -106,6 +106,7 @@ Developed as part of an academic project for Artificial Intelligence and Machine
 
 ## Results
 
+```bash
 Data loaded successfully for dataset_m.csv with target variable 'risco'
 Dataset first 5 rows: 
                data  local  velocidade_vento    terreno  correnteza  visibilidade  obstaculos  risco
@@ -176,6 +177,7 @@ Matriz:
  [ 0  0  0  0  0  1  3  0]
  [ 0  0  0  0  0  0  1  0]]
 
+```
 
 ## Conclusion
 This project focused on developing machine learning models for a monitoring agent and a triage agent within a flood response system. Both models were built using a Random Forest classifier and followed a structured pipeline including data preprocessing, training, and evaluation. The monitoring model achieved strong results from the beginning, due to the presence of clear and objective environmental features directly related to risk prediction.
