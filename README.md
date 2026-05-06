@@ -100,4 +100,4 @@ The project generates evaluation metrics for each model, including:
 
 ## 👥 Authors
 
-Developed as part of an academic project for Artificial Intelligence and Machine Learning.
+Developed as part of an academic project for Artificial Intelligence and Machine Learning, created By Gabriel Silveira and Paola Cardoso.
